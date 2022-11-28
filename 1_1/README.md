@@ -26,11 +26,7 @@
     - [netology.yaml](netology.yaml) – yaml,
     - [netology.jsonnet](netology.jsonnet) – jsonnet.
 4. Убедитесь, что работает подсветка синтаксиса, файлы должны выглядеть вот так:
-    - Terraform: ![Terraform](img/terraform.png)
-    - Bash: ![bahs](img/bash.png)
-    - Markdown: ![markdown](img/markdown.png)
-    - Yaml: ![Yaml](img/yaml.png)
-    - Jsonnet: ![Jsonnet](img/jsonnet.png)
+-
 
 *В качестве выполненного задания приведите скриншоты установленной IDE с плагинами в файле readme.md собственного репозитория в GitHub или в Google Doc*
 
